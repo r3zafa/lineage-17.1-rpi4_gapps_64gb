@@ -20,6 +20,8 @@ lineage-17.1-20210122-UNOFFICIAL-KonstaKANG-rpi4 with installed gapps backup wit
 3.5.
 ![alt text](https://github.com/r3zafa/lineage-17.1-rpi4_gapps_64gb/blob/main/5.PNG)
 
+3.6.
+![alt text](https://github.com/r3zafa/lineage-17.1-rpi4_gapps_64gb/blob/main/6.PNG)
 
 4. enjoy it!
 
