@@ -2,7 +2,7 @@
 lineage-17.1-20210122-UNOFFICIAL-KonstaKANG-rpi4 with installed gapps backup with AOMEI Backupper ready to Go. This Backup is from a 64gb USB Drive.
 0. Tested on Pi 4 8GB
 1. Download AOMEI backupper from here: https://www.aomei.de/download.html#ab
-2. Download Android Backup file from here.
+2. Download Android Backup file from here: 
 3. Use AOMEI backupper to restore this image to an USB drive.
 
 3.1.
@@ -27,6 +27,5 @@ this process need 15 to 40 min to complete. dependings on your USB Drive Speed.
 
 4. enjoy it! (●'◡'●)(●'◡'●) 
 
-Publisher : Reza Faraji Jenaghard
-
+Publisher : Reza Faraji Jenaghard\
 Computer Eng. M.Sc.
