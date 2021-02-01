@@ -13,7 +13,7 @@ lineage-17.1-20210122-UNOFFICIAL-KonstaKANG-rpi4 with installed gapps backup wit
 ![alt text](https://github.com/r3zafa/lineage-17.1-rpi4_gapps_64gb/blob/main/4.PNG)\
 3.5.\
 ![alt text](https://github.com/r3zafa/lineage-17.1-rpi4_gapps_64gb/blob/main/5.PNG)\
-this process need 15 to 40 min to complete. dependings on your USB Drive Speed.\
+This process need 15 to 40 min to complete. depending on your USB Drive Speed.\
 3.6.\
 ![alt text](https://github.com/r3zafa/lineage-17.1-rpi4_gapps_64gb/blob/main/6.PNG)\
 4. enjoy it! (●'◡'●)(●'◡'●)
