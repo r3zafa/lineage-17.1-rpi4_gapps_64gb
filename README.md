@@ -5,13 +5,10 @@ lineage-17.1-20210122-UNOFFICIAL-KonstaKANG-rpi4 with installed gapps backup wit
 2. Download Android Backup file from here.
 3. Use AOMEI backupper to restore this image to an USB drive.
 3.1.
-https://github.com/r3zafa/lineage-17.1-rpi4_gapps_64gb/blob/main/1.PNG
+![alt text](https://github.com/r3zafa/lineage-17.1-rpi4_gapps_64gb/blob/main/1.PNG)
 3.2.
-https://github.com/r3zafa/lineage-17.1-rpi4_gapps_64gb/blob/main/2.PNG
 3.3.
-https://github.com/r3zafa/lineage-17.1-rpi4_gapps_64gb/blob/main/3.PNG
 3.4.
-https://github.com/r3zafa/lineage-17.1-rpi4_gapps_64gb/blob/main/4.PNG
 3.5.
 https://github.com/r3zafa/lineage-17.1-rpi4_gapps_64gb/blob/main/5.PNG
 
